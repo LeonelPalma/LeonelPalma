@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://github.com/LeonelPalma">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonelPalma&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelPalma&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonelPalma&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelPalma&layout=compact&langs_count=7&theme=cobalt"/>
+</div><br>
+  
 <div style="display: inline_block">Languages<br>
     <img align="center" alt="Leonel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Leonel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -14,7 +14,7 @@
     <img align="center" alt="Leonel-Dot-Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
 </div>
   
-<div style="display: inline_block">Tools<br>
+  <div style="display: inline_block"><b><u>Tools</u></b><br>
   <img align="center" alt="Leonel-WP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   <img align="center" alt="Leonel-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="Leonel-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
@@ -22,9 +22,10 @@
   <img align="center" alt="Leonel-PremierePro" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
   <img align="center" alt="Leonel-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 </div>
-  
+<br>  
 <hr>
-
+<br>
+<div>
 - 👋 Hi, I’m @LeonelPalma.
 
 - 💙 My interests are music, reading and writing, drawing, cooking and eating, exploring and doing road trips, experiencing new experiences and volunteering. I value empathy very much.
@@ -40,7 +41,7 @@
 - 📫 You can reach me through the links:
 <a href="https://discord.gg/#4410" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/leonelpalma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+</div>
 
 
 <!---
