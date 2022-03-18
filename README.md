@@ -1,4 +1,4 @@
-### LeonelPalma/Who_am_I is a ✨special✨ repository because `README.md` is my GitHub profile.
+### LeonelPalma/Who_am_I is a ✨special✨ repository because is my GitHub profile.
 
 <div align="center">
   <a href="https://github.com/LeonelPalma">
@@ -29,19 +29,19 @@
 <hr>
 <br>
   
-<h4> 👋 Hi, I’m @LeonelPalma.
+<h4> 👋 Hi, I’m @LeonelPalma. </h4>
 
- 💙 My interests are music, reading and writing, drawing, cooking and eating, exploring and doing road trips, experiencing new experiences and volunteering. I value empathy very much.
+<h4> 💙 My interests are music, reading and writing, drawing, cooking and eating, exploring and doing road trips, experiencing new experiences and volunteering. I value empathy very much.</h4>
 
- 🏆 I've experience as a web designer & developer, as a digital marketer, as a translator (Portuguese, English, French, Spanish), as a UI/UX designer and as a cryptoasset trader. And I'm a Lifeguard and Networker.
+<h4> 🏆 I've experience as a web designer & developer, as a digital marketer, as a translator (Portuguese, English, French, Spanish), as a UI/UX designer and as a cryptoasset trader. And I'm a Lifeguard and Networker.</h4>
 
- 👀 I’m interested in specific areas of the sectors of activity of Information Technologies and Services, Financial Services and Banking and Insurance, such as Digital Transformation, Management Consulting, Business Solutions, Business Intelligence, Cybersecurity and, Project Management and Risk Management.
+<h4> 👀 I’m interested in specific areas of the sectors of activity of Information Technologies and Services, Financial Services and Banking and Insurance, such as Digital Transformation, Management Consulting, Business Solutions, Business Intelligence, Cybersecurity and, Project Management and Risk Management.</h4>
 
- 🌱 I’m currently learning how to use Outsystems and Salesforce platforms and am learning how to program in React Native, Node.js and Angular.js.
+<h4> 🌱 I’m currently learning how to use Outsystems and Salesforce platforms and am learning how to program in React Native, Node.js and Angular.js.</h4>
 
- 💞️ I’m looking to collaborate on ...
+<h4> 💞️ I’m looking to collaborate on ...</h4>
 
- 📫 You can reach me through the links:<h3><a href="https://discord.gg/#4410" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/leonelpalma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </h4>
+<h4> 📫 You can reach me through the links: <a href="https://discord.gg/#4410" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/leonelpalma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </h4>
 
 
 <!---
