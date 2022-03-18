@@ -1,4 +1,4 @@
-### <center>LeonelPalma/Who_am_I is a ✨special✨ repository because is my GitHub profile.</center>
+### LeonelPalma/Who_am_I is a ✨special✨ repository because is my GitHub profile.
 
 <div align="center">
   <a href="https://github.com/LeonelPalma">
@@ -41,7 +41,7 @@
 
 <h4> 💞️ I’m looking to collaborate on ...</h4>
 
-<h4> 📫 You can reach me through the links:</4> <a href="https://discord.gg/#4410" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/leonelpalma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<h4> 📫 You can reach me through the links:</h4> <a href="https://discord.gg/#4410" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/leonelpalma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
 <!---
