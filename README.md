@@ -1,4 +1,4 @@
-<div align="center"> <h2>LeonelPalma/Who_am_I is a ✨special✨ repository because is my GitHub profile. </h2></div>
+<div align="center"> <h2>LeonelPalma/README is a ✨special✨ repository because is my GitHub profile. </h2></div>
 <br>
 <div align="center">
   <a href="https://github.com/LeonelPalma">
