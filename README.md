@@ -11,19 +11,21 @@
     <img align="center" alt="Leonel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Leonel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Leonel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Leonel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Leonel-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-    <img align="center" alt="Leonel-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Leonel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Leonel-Dot-Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
+    <img align="center" alt="Leonel-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 </div>
   
   <div style="display: inline_block" align="center"> <h3><b><u>Tools:</u></b>
   <img align="center" alt="Leonel-WP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   <img align="center" alt="Leonel-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img align="center" alt="Leonel-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Leonel-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
   <img align="center" alt="Leonel-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="Leonel-PremierePro" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
   <img align="center" alt="Leonel-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" alt="Leonel-SPSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" />
 </div>
    
 <hr>
@@ -33,13 +35,13 @@
 
 <h4 align="left"> 👋 Hi, I’m @LeonelPalma. </h4>
 
-<h4 align="left"> 💙 My interests are music, reading and writing, drawing, photography, cooking and eating, exploring and doing road trips, experiencing new experiences and volunteering. I value empathy very much.</h4>
+<h4 align="left"> 💙 My passions and hobbies are listening to songs and playing acoustic guitar, reading fiction and nonfiction books and writing about subjects of interest to me, drawing, photography, cooking and eating diverse gastronomy, exploring, traveling and doing road trips, experiencing new experiences and volunteering. I value empathy and good manners very much.</h4>
 
-<h4 align="left"> 🏆 I've experience as a web designer & developer, as a digital marketer, as a translator (Portuguese, English, French, Spanish), as a UI/UX designer and as a cryptoasset trader. And I'm a Lifeguard and Networker.</h4>
+<h4 align="left"> 🏆 I've experience as a web designer & developer, as a digital marketeer, as a translator and proofreader (Portuguese, English, French, Spanish), as a UI/UX designer and as a cryptoasset trader. And I'm a Lifeguard, a Ambassador and a Networker.</h4>
 
-<h4 align="left"> 👀 I’m interested in specific areas of the sectors of activity of Information Technologies and Services, Financial Services and Banking and Insurance, such as Digital Transformation, Management Consulting, Business Solutions, Business Intelligence, Cybersecurity and, Project Management and Risk Management.</h4>
+<h4 align="left"> 👀 I’m interested in specific areas of the sectors of activity of Information Technologies and Services, Financial Services, Banking and Insurance, such as Digital Transformation, Management Consulting, Business Solutions, Business Intelligence & Data Analytics, Cybersecurity and, Project Management and Risk Management.</h4>
 
-<h4 align="left"> 🌱 I’m currently learning how to use Outsystems and Salesforce platforms and am learning React Native, Node.js and Angular.js.</h4>
+<h4 align="left"> 🌱 I’m currently learning how to use the most varied resources of AI technology and am learning React Native, Node.js and Angular.js.</h4>
 
 <h4 align="left"> 💞️ I’m looking to collaborate on ...</h4>
 </p></details>
