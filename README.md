@@ -39,7 +39,7 @@
 
 <h4 align="left"> 🏆 I've experience as a web designer & developer, as a digital marketeer, as a translator and proofreader (Portuguese, English, French, Spanish), as a UI/UX designer and as a cryptoasset trader. And I'm a Lifeguard, a Ambassador and a Networker.</h4>
 
-<h4 align="left"> 👀 I’m interested in specific areas of the sectors of activity of Information Technologies and Services, Financial Services, Banking and Insurance, such as Digital Transformation, Management Consulting, Business Solutions, Business Intelligence & Data Analytics, Cybersecurity and, Project Management and Risk Management.</h4>
+<h4 align="left"> 👀 I’m interested in specific areas of the sectors of activity of Information Technologies and Services, Financial Services, Banking and Insurance, such as Digital Transformation, Management Consulting, Business Solutions, Artificial Intelligence, Business Intelligence & Analytics, Cybersecurity and, Project Management and Risk Management.</h4>
 
 <h4 align="left"> 🌱 I’m currently learning how to use the most varied resources of AI technology and am learning React Native, Node.js and Angular.js.</h4>
 
@@ -49,7 +49,7 @@
 <div align="center">
 <h4><img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> &nbsp;You can reach me through the links:</h4>  <a href="https://www.linkedin.com/in/leonelpalma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href = "mailto:leonelbpalma@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://discord.gg/#4410" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
-<br> <div align="center"> ![](https://komarev.com/ghpvc/?username=LeonelPalma&style=plastic&color=orange&label=PROFILE+VIEWS)
+<!-- <br> <div align="center"> ![](https://komarev.com/ghpvc/?username=LeonelPalma&style=plastic&color=orange&label=PROFILE+VIEWS) -->
  
 <!---
 LeonelPalma/Who_am_I is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
