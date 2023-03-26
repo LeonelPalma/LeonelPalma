@@ -49,6 +49,7 @@
 <div align="center">
 <h4><img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> &nbsp;You can reach me through the links:</h4>  <a href="https://www.linkedin.com/in/leonelpalma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href = "mailto:leonelbpalma@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://discord.gg/#4410" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
+<br> <div align="center"> ![](https://komarev.com/ghpvc/?username=LeonelPalma&style=plastic&color=orange&label=PROFILE+VIEWS)
  
 <!---
 LeonelPalma/Who_am_I is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
